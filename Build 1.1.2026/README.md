@@ -1,1 +1,1 @@
-
+Ao iniciar, o processo é o seguinte: a BIOS carrega os 8 setores de inicio.bin no endereço de memória 0x7C00. O bootloader verifica se o modo VBE 640×480×32, com framebuffer linear, está disponível e o ativa. Em seguida, obtém o endereço dos glifos 8×16 da ROM, muda para o modo protegido de 32 bits, limpa a tela com a cor preta, calcula o centro da tela e desenha o texto "Casa OS 1 Iniciando" em branco, pixel a pixel, diretamente no framebuffer, sem realizar novas leituras do disco e sem depender da posição dos arquivos na ISO.
