@@ -1,21 +1,124 @@
-MIT License
+CASA OS 1 — CUSTOM LICENSE v1.0
 
-Copyright (c) 2026 casasys2026-ai
+Copyright (c) 2026 Mailon Suszek
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================
+1. INTRODUCTION
+================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Casa OS 1 is an independent operating system project developed
+with the purpose of creating a self-contained operating system
+without depending on another operating system.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This project is publicly available to allow users, developers,
+and interested individuals to explore, study, test, and provide
+feedback about its development.
+
+================================================================
+2. PERMITTED ACTIVITIES
+================================================================
+
+Subject to the terms of this license, users are permitted to:
+
+- View and study the publicly available source code.
+- Download and test the original Casa OS 1 project.
+- Comment on and discuss the project.
+- Express opinions, reviews, and technical feedback.
+- Report bugs and suggest improvements.
+- Share information about the original project.
+- Participate in discussions concerning the development of
+  Casa OS 1.
+
+Community participation and constructive feedback are welcome.
+
+================================================================
+3. RESTRICTIONS
+================================================================
+
+Without prior written permission from the copyright holder,
+the following activities are prohibited:
+
+- Modifying, adapting, or creating derivative versions of the
+  Casa OS 1 source code.
+- Publishing or distributing modified versions of the project.
+- Using the Casa OS 1 name, branding, or identity in a modified
+  or derivative project in a manner that suggests official
+  authorization or affiliation.
+- Reproducing or redistributing the source code as part of
+  another project without authorization.
+- Removing or altering copyright notices and attribution
+  information.
+- Using the source code for commercial purposes without
+  prior written authorization.
+
+================================================================
+4. PROJECT IDENTITY AND ATTRIBUTION
+================================================================
+
+Casa OS 1 is an original project maintained by its copyright
+holder.
+
+The Casa OS 1 name, branding, and original project identity
+must not be used to misrepresent modified or independently
+developed projects as official releases.
+
+Authorized use of the project must preserve applicable
+copyright notices and attribution.
+
+================================================================
+5. AUTHORIZATION FOR MODIFICATIONS
+================================================================
+
+Requests to modify, distribute, commercially use, or create
+derivative works based on Casa OS 1 must be submitted to the
+copyright holder for prior written approval.
+
+Permission may be granted or denied at the sole discretion
+of the copyright holder, subject to applicable law.
+
+================================================================
+6. COPYRIGHT AND OWNERSHIP
+================================================================
+
+The copyright holder retains all rights not expressly granted
+under this license.
+
+This license does not transfer ownership of the Casa OS 1
+source code, project identity, or associated original works.
+
+================================================================
+7. DISCLAIMER
+================================================================
+
+Casa OS 1 is provided for testing, research, and development
+purposes.
+
+The project is provided "AS IS", without warranties of any kind,
+to the maximum extent permitted by applicable law.
+
+================================================================
+8. TERMINATION AND LICENSE VIOLATIONS
+================================================================
+
+Any permissions granted under this license may be terminated
+upon a material violation of its terms, to the extent permitted
+by applicable law.
+
+Unauthorized use, modification, or distribution may result in
+legal action or other remedies available under applicable law.
+
+================================================================
+9. CONTACT
+================================================================
+
+For permissions, licensing questions, or authorization requests,
+please contact the copyright holder through the official project
+repository.
+
+Official repository:
+[INSIRA O LINK DO SEU GITHUB]
+
+================================================================
+END OF CASA OS 1 — CUSTOM LICENSE v1.0
+================================================================
