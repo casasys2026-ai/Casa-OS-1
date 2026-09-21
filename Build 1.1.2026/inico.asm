@@ -1,5 +1,5 @@
 ; =====================================================================
-;  inico.asm - Bootloader "Casa OS 1" (v0.2)
+;  inico.asm - Bootloader "Casa OS 1"
 ; ---------------------------------------------------------------------
 ;  Boota via BIOS (El Torito / CD-ROM), 16-bit real mode.
 ;   1. Liga o modo VBE 640x480x32 (linear frame buffer) via BIOS
